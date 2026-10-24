@@ -1,0 +1,12 @@
+{
+  "name": "Disk Manager",
+  "version": "1.0.0",
+  "identifier": "com.freebsdx.diskmanager",
+  "executable": "bin/diskmanager",
+  "icon": "Resources/icon.svg",
+  "permissions": [
+    "com.freebsdx.permission.UI",
+    "com.freebsdx.permission.STORAGE_WRITE"
+  ],
+  "mime_types": []
+}
